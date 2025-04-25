@@ -1,4 +1,4 @@
-mport os
+import os
 import signal
 import sys
 from dnslib import DNSRecord, RR, A, QTYPE
